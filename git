@@ -1,5 +1,14 @@
 this is my first project on java
-#flkjdslfma
-nfjjaojfm'fidsjf
-#kmklfalmdfkljaslfklads
-fdnkljlgmla'nfdjfkan'fidk
+git is an version contrl system
+AWS------iam-users creation and giving permissions
+ec2-- instances, with configuration
+vpc--- private network
+s3 buckets----storage data
+ebs----volumes
+rds---- databases
+lamda-----testing tool
+cloud formation---- testing gui
+DevOps:
+git, docker, ansible, kubernetes, jenkins, terraform, chef, puppet, nexux, maven, sonarqube
+java, spring boot, hybernet, sql, tomcat, jbos
+
